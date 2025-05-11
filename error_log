@@ -1,0 +1,1510 @@
+[04-Dec-2023 17:40:39 asia/dhaka] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/party/party.php on line 293
+[04-Dec-2023 23:23:38 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/data_backup.php:24
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Data_backup->index()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/data_backup.php on line 24
+[06-Dec-2023 11:58:13 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[06-Dec-2023 12:18:32 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Dec-2023 16:35:50 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Dec-2023 16:49:11 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Dec-2023 16:56:03 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Dec-2023 17:00:51 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Dec-2023 19:39:01 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Dec-2023 19:45:35 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[10-Dec-2023 16:59:01 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[10-Dec-2023 17:02:08 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[11-Dec-2023 16:14:43 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:16:19 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:16:26 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:16:39 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:36:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:135
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->supplier()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 135
+[11-Dec-2023 16:37:11 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:38:29 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:39:14 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:41:24 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:41:43 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 16:43:40 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php:67
+Stack trace:
+#0 /home/apsbuoue/bograautocenter.apsbd.xyz/system/core/CodeIgniter.php(359): Item_report->client()
+#1 /home/apsbuoue/bograautocenter.apsbd.xyz/index.php(201): require_once('/home/apsbuoue/...')
+#2 {main}
+  thrown in /home/apsbuoue/bograautocenter.apsbd.xyz/application/controllers/replace/item_report.php on line 67
+[11-Dec-2023 17:53:09 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[11-Dec-2023 17:56:10 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[11-Dec-2023 19:39:47 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[11-Dec-2023 19:54:47 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[11-Dec-2023 22:32:02 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[12-Dec-2023 12:55:09 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[12-Dec-2023 12:59:22 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[12-Dec-2023 17:09:38 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[12-Dec-2023 19:54:55 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[12-Dec-2023 21:39:47 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[13-Dec-2023 10:48:36 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[13-Dec-2023 12:45:05 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[13-Dec-2023 12:56:00 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[14-Dec-2023 11:40:28 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[15-Dec-2023 18:27:26 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[15-Dec-2023 18:33:42 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[15-Dec-2023 19:07:27 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[16-Dec-2023 18:37:53 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[16-Dec-2023 19:28:44 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[16-Dec-2023 20:15:58 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[16-Dec-2023 20:42:14 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[16-Dec-2023 20:50:10 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[16-Dec-2023 21:17:21 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[17-Dec-2023 11:32:56 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[17-Dec-2023 16:58:14 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[17-Dec-2023 20:13:56 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[17-Dec-2023 20:32:48 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[17-Dec-2023 22:11:39 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[17-Dec-2023 22:20:22 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[18-Dec-2023 11:20:40 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[18-Dec-2023 12:26:14 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[21-Dec-2023 12:35:36 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[21-Dec-2023 12:38:15 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[21-Dec-2023 12:39:45 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[21-Dec-2023 12:44:15 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[21-Dec-2023 12:52:59 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[24-Dec-2023 11:12:00 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[24-Dec-2023 20:17:22 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[26-Dec-2023 21:54:49 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[08-Jan-2024 19:45:52 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[08-Jan-2024 19:52:54 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[09-Jan-2024 16:21:32 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[10-Jan-2024 16:05:51 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[11-Jan-2024 17:58:41 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[03-Feb-2024 21:24:36 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[04-Feb-2024 21:38:34 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[04-Feb-2024 21:47:12 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[04-Feb-2024 21:55:07 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[07-Feb-2024 20:47:45 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[08-Feb-2024 19:59:53 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[10-Feb-2024 20:10:55 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[12-Feb-2024 20:57:31 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[14-Feb-2024 21:17:31 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[21-May-2024 10:43:39 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[26-May-2024 21:16:27 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[26-May-2024 21:19:26 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/apsbuoue/bograautocenter.apsbd.xyz/application/views/components/report/balance_report.php on line 163
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/sadiaent.softradbd.com/system/core/Common.php on line 351
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/sadiaent.softradbd.com/application/models/action.php on line 38
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/sadiaent.softradbd.com/application/models/action.php on line 38
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/sadiaent.softradbd.com/application/models/action.php on line 54
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/sadiaent.softradbd.com/application/models/action.php on line 110
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/sadiaent.softradbd.com/application/models/action.php on line 196
+[29-May-2024 13:50:51 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/sadiaent.softradbd.com/system/helpers/html_helper.php on line 106
+[29-May-2024 13:50:51 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/sadiaent.softradbd.com/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/sadiaent.softradbd.com/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/sadiaent.softradbd.com/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/sadiaent.softradbd.com/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/sadiaent.softradbd.com/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/sadiaent.softradbd.com/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/sadiaent.softradbd.com/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/sadiaent.softradbd.com/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/sadiaent.softradbd.com/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/sadiaent.softradbd.com/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/sadiaent.softradbd.com/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/sadiaent.softradbd.com/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/sadiaent.softradbd.com/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/sadiaent.softradbd.com/system/core/Input.php on line 391
+[29-May-2024 13:51:30 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/sadiaent.softradbd.com/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/sadiaent.softradbd.com/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/sadiaent.softradbd.com/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/sadiaent.softradbd.com/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/sadiaent.softradbd.com/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/sadiaent.softradbd.com/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/sadiaent.softradbd.com/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/sadiaent.softradbd.com/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/sadiaent.softradbd.com/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/sadiaent.softradbd.com/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/sadiaent.softradbd.com/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/sadiaent.softradbd.com/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/sadiaent.softradbd.com/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/sadiaent.softradbd.com/system/core/Input.php on line 391
+[09-Jun-2024 12:19:39 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/sadiaent.softradbd.com/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/sadiaent.softradbd.com/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/sadiaent.softradbd.com/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/sadiaent.softradbd.com/application/controllers/replace/client.php on line 245
+[09-Jun-2024 12:20:01 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/sadiaent.softradbd.com/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/sadiaent.softradbd.com/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/sadiaent.softradbd.com/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/sadiaent.softradbd.com/application/controllers/replace/client.php on line 245
+[09-Jun-2024 12:24:08 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/sadiaent.softradbd.com/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/sadiaent.softradbd.com/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/sadiaent.softradbd.com/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/sadiaent.softradbd.com/application/controllers/replace/client.php on line 245
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/munnaenterprise.xyz/system/core/Common.php on line 351
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/munnaenterprise.xyz/application/models/action.php on line 38
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/munnaenterprise.xyz/application/models/action.php on line 38
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/munnaenterprise.xyz/application/models/action.php on line 54
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/munnaenterprise.xyz/application/models/action.php on line 110
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/munnaenterprise.xyz/application/models/action.php on line 196
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/munnaenterprise.xyz/system/helpers/html_helper.php on line 106
+[22-Aug-2024 11:49:37 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/munnaenterprise.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/munnaenterprise.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/munnaenterprise.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/munnaenterprise.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/munnaenterprise.xyz/system/core/Input.php on line 391
+[22-Aug-2024 11:49:38 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/munnaenterprise.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/munnaenterprise.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/munnaenterprise.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/munnaenterprise.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/munnaenterprise.xyz/system/core/Input.php on line 391
+[22-Aug-2024 11:49:49 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/munnaenterprise.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/munnaenterprise.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/munnaenterprise.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/munnaenterprise.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/munnaenterprise.xyz/system/core/Input.php on line 391
+[22-Aug-2024 11:51:02 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/munnaenterprise.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/munnaenterprise.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/munnaenterprise.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/munnaenterprise.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/munnaenterprise.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/munnaenterprise.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/munnaenterprise.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/munnaenterprise.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/munnaenterprise.xyz/system/core/Input.php on line 391
+[22-Aug-2024 11:55:45 asia/dhaka] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/softsiai/munnaenterprise.xyz/application/views/super/includes/aside.php on line 182
+[22-Aug-2024 11:55:57 asia/dhaka] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/softsiai/munnaenterprise.xyz/application/views/super/includes/aside.php on line 182
+[22-Aug-2024 11:56:53 asia/dhaka] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/softsiai/munnaenterprise.xyz/application/views/super/includes/aside.php on line 182
+[22-Aug-2024 11:57:16 asia/dhaka] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/softsiai/munnaenterprise.xyz/application/views/super/includes/aside.php on line 182
+[22-Aug-2024 11:57:23 asia/dhaka] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/softsiai/munnaenterprise.xyz/application/views/super/includes/aside.php on line 182
+[22-Aug-2024 12:00:41 asia/dhaka] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/softsiai/munnaenterprise.xyz/application/views/super/includes/aside.php on line 553
+[24-Aug-2024 13:36:05 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/munnaenterprise.xyz/application/views/components/report/balance_report.php on line 163
+[24-Aug-2024 14:07:28 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/munnaenterprise.xyz/application/views/components/report/balance_report.php on line 163
+[24-Aug-2024 15:08:30 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/munnaenterprise.xyz/application/views/components/report/balance_report.php on line 163
+[24-Aug-2024 15:30:06 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/munnaenterprise.xyz/application/views/components/report/balance_report.php on line 163
+[24-Aug-2024 15:33:49 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/munnaenterprise.xyz/application/views/components/report/balance_report.php on line 163
+[31-Aug-2024 14:01:59 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/munnaenterprise.xyz/application/views/components/report/balance_report.php on line 163
+[09-Sep-2024 16:39:50 asia/dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home/softsiai/munnaenterprise.xyz/application/views/components/sale/viewHiresale.php on line 170
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:03 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:04 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:04 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:08 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:08 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:09 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:14 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:16 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:17 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:19 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:21 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:24 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:25 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:26 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:27 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:27 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:27 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:29 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:32 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:35:36 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:36:11 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:37:35 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[24-Sep-2024 17:37:35 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[24-Sep-2024 17:37:35 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[24-Sep-2024 17:37:35 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[24-Sep-2024 17:37:35 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[24-Sep-2024 17:37:35 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[24-Sep-2024 17:37:36 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[24-Sep-2024 17:37:36 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:37:41 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:37:41 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:37:41 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:37:59 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 17:38:08 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[24-Sep-2024 20:00:57 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 20:16:53 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 20:16:56 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 20:16:57 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 22:59:09 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 23:00:23 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/supplier.php:266
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Supplier->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/supplier.php on line 266
+[24-Sep-2024 23:01:09 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 23:06:50 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 23:08:18 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[24-Sep-2024 23:08:30 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 12:59:18 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:00:24 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:02:46 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:03:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:11:40 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:12:03 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:12:15 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:12:20 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:12:25 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:12:54 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:15:34 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:16:38 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:20:36 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:24:55 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:47:07 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:48:53 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:49:57 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:245
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 245
+[25-Sep-2024 13:51:15 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:246
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 246
+[25-Sep-2024 13:52:38 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[25-Sep-2024 13:55:03 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[25-Sep-2024 13:55:14 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[25-Sep-2024 13:56:22 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[25-Sep-2024 13:58:33 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[25-Sep-2024 14:01:36 asia/dhaka] PHP Warning:  Unterminated comment starting line 216 in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 216
+[25-Sep-2024 14:01:36 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 360
+[28-Sep-2024 10:40:08 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[28-Sep-2024 10:40:31 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[28-Sep-2024 10:40:40 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[28-Sep-2024 10:40:56 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:248
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 248
+[28-Sep-2024 10:42:09 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:247
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 247
+[28-Sep-2024 10:43:38 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:248
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 248
+[28-Sep-2024 10:46:08 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:249
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 249
+[28-Sep-2024 10:47:15 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:250
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 250
+[28-Sep-2024 10:47:59 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:253
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 253
+[28-Sep-2024 10:49:53 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:257
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 257
+[28-Sep-2024 10:52:10 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:257
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 257
+[28-Sep-2024 10:56:49 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:257
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 257
+[28-Sep-2024 10:57:46 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:06:16 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:09:41 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:23:55 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:26:46 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:27:05 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:40:25 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 11:40:48 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:258
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 258
+[28-Sep-2024 12:58:35 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:244
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 244
+[28-Sep-2024 13:15:49 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:261
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 261
+[28-Sep-2024 13:23:42 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:261
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 261
+[28-Sep-2024 13:25:24 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:262
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 262
+[28-Sep-2024 13:26:16 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:261
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 261
+[28-Sep-2024 13:27:35 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:262
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 262
+[28-Sep-2024 13:28:50 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:262
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 262
+[28-Sep-2024 13:29:23 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:262
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 262
+[28-Sep-2024 13:30:43 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:262
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 262
+[28-Sep-2024 13:32:25 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:263
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 263
+[28-Sep-2024 13:33:32 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:264
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 264
+[28-Sep-2024 13:33:56 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:265
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 265
+[28-Sep-2024 13:34:28 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:265
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 265
+[28-Sep-2024 13:34:31 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:265
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 265
+[28-Sep-2024 13:35:09 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_left_join() in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php:265
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Client->show()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/replace/client.php on line 265
+[22-Oct-2024 11:00:30 asia/dhaka] PHP Parse error:  syntax error, unexpected '>' in /home/softsiai/bakulinternational.xyz/application/views/super/dashboard.php on line 373
+[23-Oct-2024 00:17:00 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[23-Oct-2024 00:20:50 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[23-Oct-2024 00:22:33 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[23-Oct-2024 00:23:40 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[31-Oct-2024 12:05:48 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/softsiai/bakulinternational.xyz/application/views/components/stock/stock.php on line 199
+[31-Oct-2024 12:06:12 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/softsiai/bakulinternational.xyz/application/views/components/stock/stock.php on line 199
+[31-Oct-2024 12:06:16 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/softsiai/bakulinternational.xyz/application/views/components/stock/stock.php on line 199
+[31-Oct-2024 12:06:21 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/softsiai/bakulinternational.xyz/application/views/components/stock/stock.php on line 199
+[31-Oct-2024 12:14:06 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/softsiai/bakulinternational.xyz/application/views/components/stock/stock.php on line 199
+[31-Oct-2024 12:14:14 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/softsiai/bakulinternational.xyz/application/views/components/stock/stock.php on line 199
+[16-Dec-2024 11:20:36 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[17-Dec-2024 01:57:30 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[18-Dec-2024 23:19:14 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function format_date() in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php:115
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(833): include()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/softsiai/bakulinternational.xyz/application/controllers/salary/salary.php(195): CI_Loader->view('components/sala...', Array)
+#3 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Salary->bonus()
+#4 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#5 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/views/components/salary/bonus.php on line 115
+[18-Dec-2024 23:22:44 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/softsiai/bakulinternational.xyz/application/controllers/data_backup.php:24
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Data_backup->index()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/data_backup.php on line 24
+[14-Jan-2025 23:50:19 asia/dhaka] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/softsiai/bakulinternational.xyz/application/views/components/report/balance_report.php on line 163
+[16-Jan-2025 16:02:27 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/softsiai/bakulinternational.xyz/application/controllers/data_backup.php:24
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Data_backup->index()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/data_backup.php on line 24
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[03-Feb-2025 17:53:07 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[03-Feb-2025 17:55:46 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[03-Feb-2025 17:57:25 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 17:57:27 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[03-Feb-2025 18:09:54 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:09:56 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:10:11 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:10:17 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:10:28 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $message follows optional parameter $level in /home/softsiai/bakulinternational.xyz/system/core/Common.php on line 351
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $offset follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 38
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $column follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 54
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $limit follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 110
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $groupby follows optional parameter $where in /home/softsiai/bakulinternational.xyz/application/models/action.php on line 196
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Deprecated:  Required parameter $list follows optional parameter $type in /home/softsiai/bakulinternational.xyz/system/helpers/html_helper.php on line 106
+[03-Feb-2025 18:16:31 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:17:43 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[03-Feb-2025 18:18:08 asia/dhaka] PHP Fatal error:  Uncaught TypeError: filter_var(): Argument #3 ($options) must be of type array|int, string given in /home/softsiai/bakulinternational.xyz/system/core/Input.php:391
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/Input.php(391): filter_var()
+#1 /home/softsiai/bakulinternational.xyz/system/core/Input.php(354): CI_Input->valid_ip()
+#2 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(314): CI_Input->ip_address()
+#3 /home/softsiai/bakulinternational.xyz/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(1099): CI_Session->__construct()
+#5 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(975): CI_Loader->_ci_init_class()
+#6 /home/softsiai/bakulinternational.xyz/system/core/Loader.php(216): CI_Loader->_ci_load_class()
+#7 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(14): CI_Loader->library()
+#8 /home/softsiai/bakulinternational.xyz/application/core/Lab_Controller.php(39): Lab_Controller->__construct()
+#9 /home/softsiai/bakulinternational.xyz/application/controllers/access/users.php(6): Admin_Controller->__construct()
+#10 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(308): Users->__construct()
+#11 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#12 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/system/core/Input.php on line 391
+[01-Mar-2025 09:58:34 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/softsiai/bakulinternational.xyz/application/controllers/data_backup.php:24
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Data_backup->index()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/data_backup.php on line 24
+[13-Apr-2025 23:49:18 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[14-Apr-2025 14:42:03 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[15-Apr-2025 21:39:39 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[15-Apr-2025 21:59:01 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[16-Apr-2025 11:56:15 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[19-Apr-2025 22:52:11 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[19-Apr-2025 22:55:18 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[23-Apr-2025 12:40:02 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[23-Apr-2025 12:45:24 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[23-Apr-2025 12:57:44 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[23-Apr-2025 23:48:56 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[23-Apr-2025 23:55:32 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[23-Apr-2025 23:59:51 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[24-Apr-2025 00:24:34 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[24-Apr-2025 00:29:06 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[24-Apr-2025 00:31:07 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[24-Apr-2025 00:33:40 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[24-Apr-2025 11:09:31 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[24-Apr-2025 13:46:06 asia/dhaka] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/softsiai/bakulinternational.xyz/application/controllers/stock/ledger.php on line 61
+[08-May-2025 00:22:24 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function add() in /home/softsiai/bakulinternational.xyz/application/controllers/purchase/purchase.php:33
+Stack trace:
+#0 /home/softsiai/bakulinternational.xyz/system/core/CodeIgniter.php(359): Purchase->index()
+#1 /home/softsiai/bakulinternational.xyz/index.php(201): require_once('/home/softsiai/...')
+#2 {main}
+  thrown in /home/softsiai/bakulinternational.xyz/application/controllers/purchase/purchase.php on line 33
