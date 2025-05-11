@@ -1,10 +1,20 @@
 var app = angular.module("MainApp", ['angularUtils.directives.dirPagination','ngSanitize']);
 
-var url = window.location.origin + '/ajax/';
-var siteurl = window.location.origin + '/';
+// var url = window.location.origin + '/ajax/';
+// var siteurl = window.location.origin + '/';
 
-//var url = window.location.origin + '/ajax/';
-//var siteurl = window.location.origin + '/';
+// Split pathname into parts
+var pathParts = window.location.pathname.split('/');
+
+// Check if running in subfolder (like localhost/bakulinternational.xyz)
+var folder = pathParts[1];
+var isLocalWithFolder = window.location.hostname === 'localhost' && folder !== '';
+
+// Build base URL dynamically
+var baseUrl = window.location.origin + (isLocalWithFolder ? '/' + folder : '') + '/ajax/';
+
+// Final result URL
+var url = baseUrl;
 
 // custom filter in Angular js
 app.filter('removeUnderScore', function() {

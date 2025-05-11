@@ -1,10 +1,21 @@
 var app = angular.module("MainApp", ['ui.select2', 'angularUtils.directives.dirPagination', 'ngSanitize']);
 
-var url = window.location.origin + '/ajax/';
-var siteurl = window.location.origin + '/';
+// var url = window.location.origin + '/ajax/';
+// var siteurl = window.location.origin + '/';
 
-// var url = window.location.origin + '/testmunna/ajax/';
-// var siteurl = window.location.origin + '/testmunna/';
+// Split pathname into parts
+var pathParts = window.location.pathname.split('/');
+
+// Check if running in subfolder (like localhost/bakulinternational.xyz)
+var folder = pathParts[1];
+var isLocalWithFolder = window.location.hostname === 'localhost' && folder !== '';
+
+// Build base URL dynamically
+var baseUrl = window.location.origin + (isLocalWithFolder ? '/' + folder : '') + '/ajax/';
+
+// Final result URL
+var url = baseUrl;
+
 
 app.constant('select2Options', 'allowClear:true');
 
